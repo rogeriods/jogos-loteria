@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Jogos Loteria</string>
+    <string name="select_game_label">Selecione o jogo:</string>
+    <string name="mt_jogos">Espaço reservado para os jogos...</string>
+    <string name="btn_generate">Gerar Jogo</string>
+    <string-array name="games">
+        <item>MEGA-SENA</item>
+        <item>DUPLA SENA</item>
+        <item>QUINA</item>
+        <item>LOTOMANIA</item>
+        <item>LOTOFÁCIL</item>
+        <item>TIMEMANIA</item>
+        <item>DIA DE SORTE</item>
+    </string-array>
 </resources>
